@@ -9,5 +9,5 @@
   origin master" fazendo assim com que o repositorio que estava no git local seja compartilhado para o git online.
 - **O que tem dentro desse repositorio:**
   
-  Dentro dele tem três arquivos como exemplos para o funcionamento da atividade do exercício 1, dentro desse arquivor tem frases sobre a aula 1 de git.
+  Dentro dele tem três arquivos como exemplos para o funcionamento da atividade do exercício 1, dentro desse arquivos tem frases sobre a aula 1 de git.
   
